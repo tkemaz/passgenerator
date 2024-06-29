@@ -1,13 +1,18 @@
 # Password Generator
 
-**This is a simple password generator program written in Python. It generates a random password based on a specified length, **containing a mix of lowercase letters, uppercase letters, numbers, and symbols.**
+**This is a simple password generator program written in Python. 
+
+**It generates a random password based on a specified length, containing a mix of lowercase letters, uppercase letters, numbers, and symbols.**
 
 --------------
 # Features
 
 **- Generates a random password with a specified length**
+
 **- Supports lowercase letters, uppercase letters, numbers, and symbols**
+
 **- Uses ANSI escape codes to print colored text art in the terminal**
+
 **- Continuously prompts the user for a password length until "exit" is entered**
 
 --------------
