@@ -32,7 +32,9 @@
 
 **1.** `Clone` or `download` this repository.
 
-**2.** Open a `terminal` and navigate to the `directory` containing the script.
+**2.** Open a `terminal` and navigate to the `directory` containing the script:
+
+    cd passgenerator
 
 **3.** Run the script with `Python`:
 
