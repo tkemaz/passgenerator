@@ -13,7 +13,14 @@
 --------------
 ## Requirements
 
-**- Python3** 
+**- `Python3`** 
+
+--------------
+# Cloning
+
+**You can clone this repository into your terminal:**
+
+    git clone https://github.com/tkemaz/passgenerator.git
 
 --------------
 ## Usage
