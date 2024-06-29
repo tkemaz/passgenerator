@@ -24,14 +24,12 @@
 
 **3.** Run the script with `Python`:
 
-    ```
     python3 generate.py
-    ```
+
 **3.1** Or with `Shell` using `chmod +x generate.sh`:
 
-    ```
     bash generate.sh
-    ```
+    
 **4.** Follow the `on-screen prompts` to generate passwords.
 
 --------------
@@ -39,9 +37,7 @@
 
 **You can clone this repository into your terminal:**
 
-    ```
     git clone https://github.com/tkemaz/passgenerator.git
-    ```
 
 # Example
 
