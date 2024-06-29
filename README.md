@@ -40,12 +40,6 @@
 **4.** Follow the `on-screen prompts` to generate passwords.
 
 --------------
-# Cloning
-
-**You can clone this repository into your terminal:**
-
-    git clone https://github.com/tkemaz/passgenerator.git
-
 # Example
 
 **When you run the `script`, you will see the following `prompt`:**
