@@ -1,6 +1,6 @@
 # Password Generator
 
-**This is a simple password generator program written in Python. 
+**This is a simple password generator program written in Python.**
 
 **It generates a random password based on a specified length, containing a mix of lowercase letters, uppercase letters, numbers, and symbols.**
 
